@@ -18,3 +18,14 @@ A. Public IP address
 B. Private IP address
 C. Elastic IP address -> Answer
 D. Local IP address
+
+### Which aws service provides a quick and automated way to create and manage aws account
+
+aws organizations
+
+### What is the command to change the owner of a file?
+
+- **`chown`**: Changes the ownership of a file or directory.
+- **`chgrp`**: Changes the group ownership of a file or directory.
+- **`chattr`**: Changes file attributes on a Linux file system.
+- **`chmod`**: Changes the file mode (permissions) of a file or directory.
