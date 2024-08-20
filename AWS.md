@@ -29,3 +29,10 @@ aws organizations
 - **`chgrp`**: Changes the group ownership of a file or directory.
 - **`chattr`**: Changes file attributes on a Linux file system.
 - **`chmod`**: Changes the file mode (permissions) of a file or directory.
+
+### Which is the primary tool used to enforce security at the subnet level in AWS?
+
+- Network ACLs (NACLs) -> Answer
+- Security Group
+- Route Table
+- VPC Peering
