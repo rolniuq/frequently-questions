@@ -36,3 +36,10 @@ aws organizations
 - Security Group
 - Route Table
 - VPC Peering
+
+### What is the primary use case for AWS Snowball?
+
+- **Data migration** -> Answer (or Data transfer)
+- **Batch processing**
+- **Load balancing**
+- **Object storage**
