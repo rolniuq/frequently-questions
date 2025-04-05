@@ -21,3 +21,7 @@
 - TRACE : It is designed for diagnostic purposes. When used, the web server sends back to the client the exact request that was received.
 
 ![1](http.gif)
+
+### Uri:
+
+
